@@ -1,0 +1,7 @@
+../Core/Src/usart.c:22:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:50:6:HAL_UART_MspInit	48	static
+../Core/Src/usart.c:100:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:119:6:dmx_start	8	static
+../Core/Src/usart.c:135:6:reset_dma	4	static
+../Core/Src/usart.c:150:6:USART1_IRQHandler	8	static
+../Core/Src/usart.c:168:6:DMA1_Channel5_IRQHandler	4	static

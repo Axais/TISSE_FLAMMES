@@ -1,0 +1,6 @@
+../Core/Src/main.c:62:6:main	6
+../Core/Src/main.c:140:7:SystemClock_Config	4
+../Core/Src/main.c:179:7:deplacement_X	2
+../Core/Src/main.c:189:7:deplacement_Y	2
+../Core/Src/main.c:202:7:delay_us	2
+../Core/Src/main.c:208:7:Error_Handler	1
