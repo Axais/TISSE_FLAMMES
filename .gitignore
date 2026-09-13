@@ -1,4 +1,20 @@
+# --- Sorties de compilation STM32CubeIDE ---
 Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.list
+*.map
+*.su
+*.cyclo
+
+# --- Preferences locales Eclipse / STM32CubeIDE ---
 .settings/
-.project
-.cproject
+.metadata/
+
+# --- Systeme ---
+**/.DS_Store
+Thumbs.db
